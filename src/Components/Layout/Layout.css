@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&family=Work+Sans:wght@700&display=swap');
+
+.Layout {
+    position: absolute;
+    width: 1007px;
+    height: 813px;
+    left: 457px;
+    top: 88px;
+}
+
+.TextFilter {
+    position: absolute;
+    width: 88px;
+    height: 40px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 34px;
+line-height: 40px;
+
+letter-spacing: -0.02em;
+
+color: #121212;
+}
+
+.TextList {
+    position: absolute;
+    width: 200px;
+    height: 40px;
+    left: 432px;
+    
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 34px;
+    line-height: 40px;
+    
+    letter-spacing: -0.02em;
+    
+    color: #121212;
+    
+}
+
+.UserList {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    /* justify-content: center; */
+}

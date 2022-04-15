@@ -1,0 +1,190 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&family=Work+Sans:wght@700&display=swap');
+
+.Filter {
+    position: absolute;
+    width: 365px;
+    height: 419px;
+    top: 72px;
+    
+    border: 1px solid #F3F3F3;
+    box-sizing: border-box;
+    border-radius: 12px;
+}
+
+.Name {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 14px;
+
+    position: absolute;
+    width: 307px;
+    height: 52px;
+    left: 29px;
+    top: 52px;
+
+    background: #FFFFFF;
+    border: 1px solid #121212;
+    box-sizing: border-box;
+    border-radius: 12px;
+}
+
+input::placeholder {
+    position: static;
+    width: 133px;
+    height: 24px;
+    left: 14px;
+    top: 14px;
+    
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    
+    text-align: center;
+    
+    color: #999999;
+    
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 5px;
+  }
+
+.Text {
+    position: absolute;
+    height: 18px;
+    left: 29px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px;
+
+    color: #999999;
+}
+
+.Button {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 8px 18px;
+    
+    position: absolute;
+    width: 71px;
+    height: 37px;
+    left: 29px;
+    top: 259px;
+    
+    background: #FFFFFF;
+    
+    border: 1px solid #121212;
+    box-sizing: border-box;
+    border-radius: 24px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: center;
+    color: #52228C;
+}
+
+.ButtonTrue {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 8px 18px;
+    
+    position: absolute;
+    width: 71px;
+    height: 37px;
+    left: 29px;
+    top: 259px;
+    
+    background: #ECD3FA;
+    
+    border: 1px solid #121212;
+    box-sizing: border-box;
+    border-radius: 24px;
+}
+
+.Button2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 8px 18px;
+    
+    position: absolute;
+    width: 89px;
+    height: 37px;
+    left: 125.14px;
+    top: 259px;
+    
+    background: #FFFFFF;
+    
+    border: 1px solid #121212;
+    box-sizing: border-box;
+    border-radius: 24px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 21px;
+    text-align: center;
+    color: #52228C;
+}
+
+.ButtonTrue2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 8px 18px;
+    
+    position: absolute;
+    width: 89px;
+    height: 37px;
+    left: 125.14px;
+    top: 259px;
+    
+    background: #ECD3FA;
+    
+    border: 1px solid #121212;
+    box-sizing: border-box;
+    border-radius: 24px;
+}
+
+.Sort {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 14px;
+
+    position: absolute;
+    width: 307px;
+    height: 52px;
+    left: 29px;
+    top: 345px;
+
+    background: #FFFFFF;
+    border: 1px solid #121212;
+    box-sizing: border-box;
+    border-radius: 12px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #121212;
+}
+
+
+
